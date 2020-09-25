@@ -1,0 +1,314 @@
+{
+  "uuid": {
+    "/Users/wuliang/Documents/GitHub/material-presentation/assets/1-helmet/pbr-cmp.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/wuliang/Documents/GitHub/material-presentation/assets/1-helmet/pbr-zero.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/wuliang/Documents/GitHub/material-presentation/assets/1-helmet/pbr.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/wuliang/Documents/GitHub/material-presentation/assets/1-helmet/toon.mtl": [
+      "a7612b54-35e3-4238-a1a9-4a7b54635839"
+    ],
+    "/Users/wuliang/Documents/GitHub/material-presentation/assets/2-slides/demo.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/wuliang/Documents/GitHub/material-presentation/assets/3-miku/materials/Other.mtl": [
+      "a7612b54-35e3-4238-a1a9-4a7b54635839"
+    ],
+    "/Users/wuliang/Documents/GitHub/material-presentation/assets/3-miku/materials/body02.mtl": [
+      "a7612b54-35e3-4238-a1a9-4a7b54635839"
+    ],
+    "/Users/wuliang/Documents/GitHub/material-presentation/assets/3-miku/materials/eye_hi.mtl": [
+      "a7612b54-35e3-4238-a1a9-4a7b54635839"
+    ],
+    "/Users/wuliang/Documents/GitHub/material-presentation/assets/3-miku/materials/face00.mtl": [
+      "a7612b54-35e3-4238-a1a9-4a7b54635839"
+    ],
+    "/Users/wuliang/Documents/GitHub/material-presentation/assets/3-miku/materials/face01.mtl": [
+      "a7612b54-35e3-4238-a1a9-4a7b54635839"
+    ],
+    "/Users/wuliang/Documents/GitHub/material-presentation/assets/3-miku/materials/hair00.mtl": [
+      "bb4f2d70-90d5-44e4-b0ea-aae0febec814"
+    ],
+    "/Users/wuliang/Documents/GitHub/material-presentation/assets/3-miku/materials/hair01.mtl": [
+      "bb4f2d70-90d5-44e4-b0ea-aae0febec814"
+    ],
+    "/Users/wuliang/Documents/GitHub/material-presentation/assets/3-miku/materials/hairshadow.mtl": [
+      "a7612b54-35e3-4238-a1a9-4a7b54635839"
+    ],
+    "/Users/wuliang/Documents/GitHub/material-presentation/assets/3-miku/materials/lens.mtl": [
+      "a7612b54-35e3-4238-a1a9-4a7b54635839"
+    ],
+    "/Users/wuliang/Documents/GitHub/material-presentation/assets/3-miku/materials/おみあし.mtl": [
+      "a7612b54-35e3-4238-a1a9-4a7b54635839"
+    ],
+    "/Users/wuliang/Documents/GitHub/material-presentation/assets/3-miku/materials/スカート腕ヘドフォン.mtl": [
+      "a7612b54-35e3-4238-a1a9-4a7b54635839"
+    ],
+    "/Users/wuliang/Documents/GitHub/material-presentation/assets/3-miku/materials/スカート腕ヘドフォン1.mtl": [
+      "a7612b54-35e3-4238-a1a9-4a7b54635839"
+    ],
+    "/Users/wuliang/Documents/GitHub/material-presentation/assets/3-miku/materials/ブラウス.mtl": [
+      "a7612b54-35e3-4238-a1a9-4a7b54635839"
+    ],
+    "/Users/wuliang/Documents/GitHub/material-presentation/assets/3-miku/materials/光る.mtl": [
+      "a7612b54-35e3-4238-a1a9-4a7b54635839"
+    ],
+    "/Users/wuliang/Documents/GitHub/material-presentation/assets/3-miku/materials/光る1.mtl": [
+      "a7612b54-35e3-4238-a1a9-4a7b54635839"
+    ],
+    "/Users/wuliang/Documents/GitHub/material-presentation/assets/3-miku/materials/肌.mtl": [
+      "a7612b54-35e3-4238-a1a9-4a7b54635839"
+    ],
+    "/Users/wuliang/Documents/GitHub/material-presentation/assets/3-miku/shadertoy/shadertoy.mtl": [
+      "6d43a2e6-d1d1-466e-a84a-5f983159de4b"
+    ],
+    "/Users/wuliang/Documents/GitHub/material-presentation/assets/materials/floor-base.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/wuliang/Documents/GitHub/material-presentation/assets/materials/floor.mtl": [
+      "42daf36f-e2bb-45fd-9ca4-40a043727dfc"
+    ],
+    "/Users/wuliang/Documents/GitHub/material-presentation/assets/materials/health-bar.mtl": [
+      "b1ed778f-a954-4269-b9d6-3ba1a26895d0"
+    ],
+    "/Users/wuliang/Documents/GitHub/material-presentation/assets/materials/test.mtl": [
+      "bb4f2d70-90d5-44e4-b0ea-aae0febec814"
+    ],
+    "/Users/wuliang/Documents/GitHub/material-presentation/assets/3-miku/materials/スカート腕ヘドフォン1.mtl": [
+      "a7612b54-35e3-4238-a1a9-4a7b54635839"
+    ],
+    "/Users/wuliang/Documents/GitHub/material-presentation/assets/3-miku/materials/ブラウス.mtl": [
+      "a7612b54-35e3-4238-a1a9-4a7b54635839"
+    ],
+    "/Users/wuliang/Documents/GitHub/material-presentation/assets/3-miku/materials/スカート腕ヘドフォン.mtl": [
+      "a7612b54-35e3-4238-a1a9-4a7b54635839"
+    ]
+  },
+  "path": {
+    "/Users/wuliang/Documents/GitHub/material-presentation/assets/1-helmet/pre-filter-envmap/pre-filter-envmap.effect": [
+      "/Applications/CocosCreator/Creator3D/1.1.2/CocosCreator3D.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/pre-filter-vs.chunk",
+      "/Applications/CocosCreator/Creator3D/1.1.2/CocosCreator3D.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/decode.chunk",
+      "/Applications/CocosCreator/Creator3D/1.1.2/CocosCreator3D.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/decode-base.chunk",
+      "/Applications/CocosCreator/Creator3D/1.1.2/CocosCreator3D.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/cc-global.chunk",
+      "/Applications/CocosCreator/Creator3D/1.1.2/CocosCreator3D.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/cc-local.chunk",
+      "/Applications/CocosCreator/Creator3D/1.1.2/CocosCreator3D.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/pre-filter-fs.chunk",
+      "/Applications/CocosCreator/Creator3D/1.1.2/CocosCreator3D.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/common.chunk",
+      "/Applications/CocosCreator/Creator3D/1.1.2/CocosCreator3D.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/gamma.chunk",
+      "/Applications/CocosCreator/Creator3D/1.1.2/CocosCreator3D.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/unpack.chunk",
+      "/Applications/CocosCreator/Creator3D/1.1.2/CocosCreator3D.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/texture-lod.chunk",
+      "/Applications/CocosCreator/Creator3D/1.1.2/CocosCreator3D.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/cc-environment.chunk",
+      "/Users/wuliang/Documents/GitHub/material-presentation/assets/chunks/pre-filter-vs.chunk",
+      "/Users/wuliang/Documents/GitHub/material-presentation/assets/chunks/decode.chunk",
+      "/Users/wuliang/Documents/GitHub/material-presentation/assets/chunks/decode-base.chunk",
+      "/Users/wuliang/Documents/GitHub/material-presentation/assets/chunks/cc-global.chunk",
+      "/Users/wuliang/Documents/GitHub/material-presentation/assets/chunks/cc-local.chunk",
+      "/Users/wuliang/Documents/GitHub/material-presentation/assets/chunks/pre-filter-fs.chunk",
+      "/Users/wuliang/Documents/GitHub/material-presentation/assets/chunks/common.chunk",
+      "/Users/wuliang/Documents/GitHub/material-presentation/assets/chunks/gamma.chunk",
+      "/Users/wuliang/Documents/GitHub/material-presentation/assets/chunks/unpack.chunk",
+      "/Users/wuliang/Documents/GitHub/material-presentation/assets/chunks/texture-lod.chunk",
+      "/Users/wuliang/Documents/GitHub/material-presentation/assets/chunks/cc-environment.chunk"
+    ],
+    "/Users/wuliang/Documents/GitHub/material-presentation/assets/1-helmet/DamagedHelmet.gltf@3effa": [
+      "/Users/wuliang/Documents/GitHub/material-presentation/assets/1-helmet/Default_albedo.jpg"
+    ],
+    "/Users/wuliang/Documents/GitHub/material-presentation/assets/1-helmet/DamagedHelmet.gltf@0089c": [
+      "/Users/wuliang/Documents/GitHub/material-presentation/assets/1-helmet/Default_emissive.jpg"
+    ],
+    "/Users/wuliang/Documents/GitHub/material-presentation/assets/1-helmet/DamagedHelmet.gltf@9b782": [
+      "/Users/wuliang/Documents/GitHub/material-presentation/assets/1-helmet/Default_normal.jpg"
+    ],
+    "/Users/wuliang/Documents/GitHub/material-presentation/assets/3-miku/shadertoy/shadertoy.effect": [
+      "/Applications/CocosCreator/Creator3D/1.1.2/CocosCreator3D.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/toy-vs.chunk",
+      "/Applications/CocosCreator/Creator3D/1.1.2/CocosCreator3D.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/cc-global.chunk",
+      "/Applications/CocosCreator/Creator3D/1.1.2/CocosCreator3D.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/cc-local-batch.chunk",
+      "/Applications/CocosCreator/Creator3D/1.1.2/CocosCreator3D.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/cc-local.chunk",
+      "/Applications/CocosCreator/Creator3D/1.1.2/CocosCreator3D.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/input.chunk",
+      "/Applications/CocosCreator/Creator3D/1.1.2/CocosCreator3D.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/decode.chunk",
+      "/Applications/CocosCreator/Creator3D/1.1.2/CocosCreator3D.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/decode-base.chunk",
+      "/Applications/CocosCreator/Creator3D/1.1.2/CocosCreator3D.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/morph.chunk",
+      "/Applications/CocosCreator/Creator3D/1.1.2/CocosCreator3D.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/cc-skinning.chunk",
+      "/Applications/CocosCreator/Creator3D/1.1.2/CocosCreator3D.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/common.chunk",
+      "/Applications/CocosCreator/Creator3D/1.1.2/CocosCreator3D.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/skinning-lbs.chunk",
+      "/Applications/CocosCreator/Creator3D/1.1.2/CocosCreator3D.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/toy-fs.chunk",
+      "/Applications/CocosCreator/Creator3D/1.1.2/CocosCreator3D.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/output.chunk",
+      "/Applications/CocosCreator/Creator3D/1.1.2/CocosCreator3D.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/gamma.chunk",
+      "/Applications/CocosCreator/Creator3D/1.1.2/CocosCreator3D.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/3-miku/shadertoy/shadertoy.chunk",
+      "/Users/wuliang/Documents/GitHub/material-presentation/assets/chunks/toy-vs.chunk",
+      "/Users/wuliang/Documents/GitHub/material-presentation/assets/chunks/cc-global.chunk",
+      "/Users/wuliang/Documents/GitHub/material-presentation/assets/chunks/cc-local-batch.chunk",
+      "/Users/wuliang/Documents/GitHub/material-presentation/assets/chunks/cc-local.chunk",
+      "/Users/wuliang/Documents/GitHub/material-presentation/assets/chunks/input.chunk",
+      "/Users/wuliang/Documents/GitHub/material-presentation/assets/chunks/decode.chunk",
+      "/Users/wuliang/Documents/GitHub/material-presentation/assets/chunks/decode-base.chunk",
+      "/Users/wuliang/Documents/GitHub/material-presentation/assets/chunks/morph.chunk",
+      "/Users/wuliang/Documents/GitHub/material-presentation/assets/chunks/cc-skinning.chunk",
+      "/Users/wuliang/Documents/GitHub/material-presentation/assets/chunks/common.chunk",
+      "/Users/wuliang/Documents/GitHub/material-presentation/assets/chunks/skinning-lbs.chunk",
+      "/Users/wuliang/Documents/GitHub/material-presentation/assets/chunks/toy-fs.chunk",
+      "/Users/wuliang/Documents/GitHub/material-presentation/assets/chunks/output.chunk",
+      "/Users/wuliang/Documents/GitHub/material-presentation/assets/chunks/gamma.chunk",
+      "/Users/wuliang/Documents/GitHub/material-presentation/assets/3-miku/shadertoy/shadertoy.chunk"
+    ],
+    "/Users/wuliang/Documents/GitHub/material-presentation/assets/effects/dance-floor.effect": [
+      "/Applications/CocosCreator/Creator3D/1.1.2/CocosCreator3D.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/dance-vs.chunk",
+      "/Applications/CocosCreator/Creator3D/1.1.2/CocosCreator3D.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/cc-global.chunk",
+      "/Applications/CocosCreator/Creator3D/1.1.2/CocosCreator3D.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/cc-local-batch.chunk",
+      "/Applications/CocosCreator/Creator3D/1.1.2/CocosCreator3D.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/cc-local.chunk",
+      "/Applications/CocosCreator/Creator3D/1.1.2/CocosCreator3D.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/input.chunk",
+      "/Applications/CocosCreator/Creator3D/1.1.2/CocosCreator3D.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/decode.chunk",
+      "/Applications/CocosCreator/Creator3D/1.1.2/CocosCreator3D.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/decode-base.chunk",
+      "/Applications/CocosCreator/Creator3D/1.1.2/CocosCreator3D.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/morph.chunk",
+      "/Applications/CocosCreator/Creator3D/1.1.2/CocosCreator3D.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/cc-skinning.chunk",
+      "/Applications/CocosCreator/Creator3D/1.1.2/CocosCreator3D.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/common.chunk",
+      "/Applications/CocosCreator/Creator3D/1.1.2/CocosCreator3D.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/skinning-lbs.chunk",
+      "/Applications/CocosCreator/Creator3D/1.1.2/CocosCreator3D.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/dance-fs.chunk",
+      "/Applications/CocosCreator/Creator3D/1.1.2/CocosCreator3D.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/output.chunk",
+      "/Applications/CocosCreator/Creator3D/1.1.2/CocosCreator3D.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/gamma.chunk",
+      "/Users/wuliang/Documents/GitHub/material-presentation/assets/chunks/dance-vs.chunk",
+      "/Users/wuliang/Documents/GitHub/material-presentation/assets/chunks/cc-global.chunk",
+      "/Users/wuliang/Documents/GitHub/material-presentation/assets/chunks/cc-local-batch.chunk",
+      "/Users/wuliang/Documents/GitHub/material-presentation/assets/chunks/cc-local.chunk",
+      "/Users/wuliang/Documents/GitHub/material-presentation/assets/chunks/input.chunk",
+      "/Users/wuliang/Documents/GitHub/material-presentation/assets/chunks/decode.chunk",
+      "/Users/wuliang/Documents/GitHub/material-presentation/assets/chunks/decode-base.chunk",
+      "/Users/wuliang/Documents/GitHub/material-presentation/assets/chunks/morph.chunk",
+      "/Users/wuliang/Documents/GitHub/material-presentation/assets/chunks/cc-skinning.chunk",
+      "/Users/wuliang/Documents/GitHub/material-presentation/assets/chunks/common.chunk",
+      "/Users/wuliang/Documents/GitHub/material-presentation/assets/chunks/skinning-lbs.chunk",
+      "/Users/wuliang/Documents/GitHub/material-presentation/assets/chunks/dance-fs.chunk",
+      "/Users/wuliang/Documents/GitHub/material-presentation/assets/chunks/output.chunk",
+      "/Users/wuliang/Documents/GitHub/material-presentation/assets/chunks/gamma.chunk"
+    ],
+    "/Users/wuliang/Documents/GitHub/material-presentation/assets/effects/health-bar.effect": [
+      "/Applications/CocosCreator/Creator3D/1.1.2/CocosCreator3D.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/bar-vs.chunk",
+      "/Applications/CocosCreator/Creator3D/1.1.2/CocosCreator3D.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/cc-global.chunk",
+      "/Applications/CocosCreator/Creator3D/1.1.2/CocosCreator3D.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/cc-local-batch.chunk",
+      "/Applications/CocosCreator/Creator3D/1.1.2/CocosCreator3D.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/cc-local.chunk",
+      "/Applications/CocosCreator/Creator3D/1.1.2/CocosCreator3D.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/input.chunk",
+      "/Applications/CocosCreator/Creator3D/1.1.2/CocosCreator3D.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/decode.chunk",
+      "/Applications/CocosCreator/Creator3D/1.1.2/CocosCreator3D.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/decode-base.chunk",
+      "/Applications/CocosCreator/Creator3D/1.1.2/CocosCreator3D.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/morph.chunk",
+      "/Applications/CocosCreator/Creator3D/1.1.2/CocosCreator3D.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/cc-skinning.chunk",
+      "/Applications/CocosCreator/Creator3D/1.1.2/CocosCreator3D.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/common.chunk",
+      "/Applications/CocosCreator/Creator3D/1.1.2/CocosCreator3D.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/skinning-lbs.chunk",
+      "/Applications/CocosCreator/Creator3D/1.1.2/CocosCreator3D.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/shared-ubos.chunk",
+      "/Applications/CocosCreator/Creator3D/1.1.2/CocosCreator3D.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/bar-fs.chunk",
+      "/Applications/CocosCreator/Creator3D/1.1.2/CocosCreator3D.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/output.chunk",
+      "/Applications/CocosCreator/Creator3D/1.1.2/CocosCreator3D.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/gamma.chunk",
+      "/Users/wuliang/Documents/GitHub/material-presentation/assets/chunks/bar-vs.chunk",
+      "/Users/wuliang/Documents/GitHub/material-presentation/assets/chunks/cc-global.chunk",
+      "/Users/wuliang/Documents/GitHub/material-presentation/assets/chunks/cc-local-batch.chunk",
+      "/Users/wuliang/Documents/GitHub/material-presentation/assets/chunks/cc-local.chunk",
+      "/Users/wuliang/Documents/GitHub/material-presentation/assets/chunks/input.chunk",
+      "/Users/wuliang/Documents/GitHub/material-presentation/assets/chunks/decode.chunk",
+      "/Users/wuliang/Documents/GitHub/material-presentation/assets/chunks/decode-base.chunk",
+      "/Users/wuliang/Documents/GitHub/material-presentation/assets/chunks/morph.chunk",
+      "/Users/wuliang/Documents/GitHub/material-presentation/assets/chunks/cc-skinning.chunk",
+      "/Users/wuliang/Documents/GitHub/material-presentation/assets/chunks/common.chunk",
+      "/Users/wuliang/Documents/GitHub/material-presentation/assets/chunks/skinning-lbs.chunk",
+      "/Users/wuliang/Documents/GitHub/material-presentation/assets/chunks/shared-ubos.chunk",
+      "/Users/wuliang/Documents/GitHub/material-presentation/assets/chunks/bar-fs.chunk",
+      "/Users/wuliang/Documents/GitHub/material-presentation/assets/chunks/output.chunk",
+      "/Users/wuliang/Documents/GitHub/material-presentation/assets/chunks/gamma.chunk"
+    ],
+    "/Users/wuliang/Documents/GitHub/material-presentation/assets/effects/toon-hair.effect": [
+      "/Applications/CocosCreator/Creator3D/1.1.2/CocosCreator3D.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/outline-vs.chunk",
+      "/Applications/CocosCreator/Creator3D/1.1.2/CocosCreator3D.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/input-standard.chunk",
+      "/Applications/CocosCreator/Creator3D/1.1.2/CocosCreator3D.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/decode-standard.chunk",
+      "/Applications/CocosCreator/Creator3D/1.1.2/CocosCreator3D.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/decode-base.chunk",
+      "/Applications/CocosCreator/Creator3D/1.1.2/CocosCreator3D.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/morph.chunk",
+      "/Applications/CocosCreator/Creator3D/1.1.2/CocosCreator3D.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/cc-skinning.chunk",
+      "/Applications/CocosCreator/Creator3D/1.1.2/CocosCreator3D.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/common.chunk",
+      "/Applications/CocosCreator/Creator3D/1.1.2/CocosCreator3D.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/skinning-lbs.chunk",
+      "/Applications/CocosCreator/Creator3D/1.1.2/CocosCreator3D.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/cc-global.chunk",
+      "/Applications/CocosCreator/Creator3D/1.1.2/CocosCreator3D.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/cc-local-batch.chunk",
+      "/Applications/CocosCreator/Creator3D/1.1.2/CocosCreator3D.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/cc-local.chunk",
+      "/Applications/CocosCreator/Creator3D/1.1.2/CocosCreator3D.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/outline-fs.chunk",
+      "/Applications/CocosCreator/Creator3D/1.1.2/CocosCreator3D.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/output.chunk",
+      "/Applications/CocosCreator/Creator3D/1.1.2/CocosCreator3D.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/gamma.chunk",
+      "/Applications/CocosCreator/Creator3D/1.1.2/CocosCreator3D.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/general-vs.chunk",
+      "/Applications/CocosCreator/Creator3D/1.1.2/CocosCreator3D.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/toon-fs.chunk",
+      "/Applications/CocosCreator/Creator3D/1.1.2/CocosCreator3D.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/anisotropic-hair.chunk",
+      "/Applications/CocosCreator/Creator3D/1.1.2/CocosCreator3D.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/shading-toon.chunk",
+      "/Applications/CocosCreator/Creator3D/1.1.2/CocosCreator3D.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/lighting.chunk",
+      "/Applications/CocosCreator/Creator3D/1.1.2/CocosCreator3D.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/cc-forward-light.chunk",
+      "/Applications/CocosCreator/Creator3D/1.1.2/CocosCreator3D.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/output-standard.chunk",
+      "/Applications/CocosCreator/Creator3D/1.1.2/CocosCreator3D.app/Contents/Resources/app.asar.unpacked/builtin/asset-db/static/internal/assets/chunks/aces.chunk",
+      "/Users/wuliang/Documents/GitHub/material-presentation/assets/chunks/outline-vs.chunk",
+      "/Users/wuliang/Documents/GitHub/material-presentation/assets/chunks/input-standard.chunk",
+      "/Users/wuliang/Documents/GitHub/material-presentation/assets/chunks/decode-standard.chunk",
+      "/Users/wuliang/Documents/GitHub/material-presentation/assets/chunks/decode-base.chunk",
+      "/Users/wuliang/Documents/GitHub/material-presentation/assets/chunks/morph.chunk",
+      "/Users/wuliang/Documents/GitHub/material-presentation/assets/chunks/cc-skinning.chunk",
+      "/Users/wuliang/Documents/GitHub/material-presentation/assets/chunks/common.chunk",
+      "/Users/wuliang/Documents/GitHub/material-presentation/assets/chunks/skinning-lbs.chunk",
+      "/Users/wuliang/Documents/GitHub/material-presentation/assets/chunks/cc-global.chunk",
+      "/Users/wuliang/Documents/GitHub/material-presentation/assets/chunks/cc-local-batch.chunk",
+      "/Users/wuliang/Documents/GitHub/material-presentation/assets/chunks/cc-local.chunk",
+      "/Users/wuliang/Documents/GitHub/material-presentation/assets/chunks/outline-fs.chunk",
+      "/Users/wuliang/Documents/GitHub/material-presentation/assets/chunks/output.chunk",
+      "/Users/wuliang/Documents/GitHub/material-presentation/assets/chunks/gamma.chunk",
+      "/Users/wuliang/Documents/GitHub/material-presentation/assets/chunks/general-vs.chunk",
+      "/Users/wuliang/Documents/GitHub/material-presentation/assets/chunks/toon-fs.chunk",
+      "/Users/wuliang/Documents/GitHub/material-presentation/assets/chunks/anisotropic-hair.chunk",
+      "/Users/wuliang/Documents/GitHub/material-presentation/assets/chunks/shading-toon.chunk",
+      "/Users/wuliang/Documents/GitHub/material-presentation/assets/chunks/lighting.chunk",
+      "/Users/wuliang/Documents/GitHub/material-presentation/assets/chunks/cc-forward-light.chunk",
+      "/Users/wuliang/Documents/GitHub/material-presentation/assets/chunks/output-standard.chunk",
+      "/Users/wuliang/Documents/GitHub/material-presentation/assets/chunks/aces.chunk"
+    ],
+    "/Users/wuliang/Documents/GitHub/material-presentation/assets/3-miku/mikuSnow.gltf@0d32f": [
+      "/Users/wuliang/Documents/GitHub/material-presentation/assets/3-miku/textures/k_Hada.png"
+    ],
+    "/Users/wuliang/Documents/GitHub/material-presentation/assets/3-miku/mikuSnow.gltf@d3328": [
+      "/Users/wuliang/Documents/GitHub/material-presentation/assets/3-miku/textures/k_Asi2.png"
+    ],
+    "/Users/wuliang/Documents/GitHub/material-presentation/assets/3-miku/mikuSnow.gltf@90ad9": [
+      "/Users/wuliang/Documents/GitHub/material-presentation/assets/3-miku/textures/k_face_MikuAp.png"
+    ],
+    "/Users/wuliang/Documents/GitHub/material-presentation/assets/3-miku/mikuSnow.gltf@063a3": [
+      "/Users/wuliang/Documents/GitHub/material-presentation/assets/3-miku/textures/k_face_MikuAp.png"
+    ],
+    "/Users/wuliang/Documents/GitHub/material-presentation/assets/3-miku/mikuSnow.gltf@c51d7": [
+      "/Users/wuliang/Documents/GitHub/material-presentation/assets/3-miku/textures/k_face_MikuAp.png"
+    ],
+    "/Users/wuliang/Documents/GitHub/material-presentation/assets/3-miku/mikuSnow.gltf@06043": [
+      "/Users/wuliang/Documents/GitHub/material-presentation/assets/3-miku/textures/h2j.png"
+    ],
+    "/Users/wuliang/Documents/GitHub/material-presentation/assets/3-miku/mikuSnow.gltf@5d3d4": [
+      "/Users/wuliang/Documents/GitHub/material-presentation/assets/3-miku/textures/h2j.png"
+    ],
+    "/Users/wuliang/Documents/GitHub/material-presentation/assets/3-miku/mikuSnow.gltf@026ca": [
+      "/Users/wuliang/Documents/GitHub/material-presentation/assets/3-miku/textures/body02_MikuAp.png"
+    ],
+    "/Users/wuliang/Documents/GitHub/material-presentation/assets/3-miku/mikuSnow.gltf@d9cd2": [
+      "/Users/wuliang/Documents/GitHub/material-presentation/assets/3-miku/textures/k_face_MikuAp.png"
+    ],
+    "/Users/wuliang/Documents/GitHub/material-presentation/assets/3-miku/mikuSnow.gltf@c2639": [
+      "/Users/wuliang/Documents/GitHub/material-presentation/assets/3-miku/textures/body02_MikuAp.png"
+    ],
+    "/Users/wuliang/Documents/GitHub/material-presentation/assets/3-miku/mikuSnow.gltf@ec2f6": [
+      "/Users/wuliang/Documents/GitHub/material-presentation/assets/3-miku/textures/k_huku1.png"
+    ],
+    "/Users/wuliang/Documents/GitHub/material-presentation/assets/3-miku/mikuSnow.gltf@6ca48": [
+      "/Users/wuliang/Documents/GitHub/material-presentation/assets/3-miku/textures/k_huku2.png"
+    ],
+    "/Users/wuliang/Documents/GitHub/material-presentation/assets/3-miku/mikuSnow.gltf@f8ce9": [
+      "/Users/wuliang/Documents/GitHub/material-presentation/assets/3-miku/textures/k_hika.png"
+    ],
+    "/Users/wuliang/Documents/GitHub/material-presentation/assets/3-miku/mikuSnow.gltf@f6598": [
+      "/Users/wuliang/Documents/GitHub/material-presentation/assets/3-miku/textures/k_Hada.png"
+    ],
+    "/Users/wuliang/Documents/GitHub/material-presentation/assets/3-miku/mikuSnow.gltf@c84d2": [
+      "/Users/wuliang/Documents/GitHub/material-presentation/assets/3-miku/textures/k_huku1.png"
+    ],
+    "/Users/wuliang/Documents/GitHub/material-presentation/assets/3-miku/mikuSnow.gltf@80da9": [
+      "/Users/wuliang/Documents/GitHub/material-presentation/assets/3-miku/textures/k_hika.png"
+    ]
+  }
+}

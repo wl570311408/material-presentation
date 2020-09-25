@@ -1,0 +1,40 @@
+{
+  "ver": "1.0.18",
+  "importer": "image",
+  "imported": true,
+  "uuid": "a7801631-c429-478f-9b26-95bfd351dadb",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "ver": "1.0.19",
+      "importer": "texture",
+      "name": "texture",
+      "id": "6c48a",
+      "displayName": "title",
+      "uuid": "a7801631-c429-478f-9b26-95bfd351dadb@6c48a",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "a7801631-c429-478f-9b26-95bfd351dadb"
+      }
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "redirect": "a7801631-c429-478f-9b26-95bfd351dadb@6c48a"
+  }
+}

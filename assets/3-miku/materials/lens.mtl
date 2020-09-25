@@ -1,0 +1,71 @@
+{
+  "__type__": "cc.Material",
+  "_name": "",
+  "_objFlags": 0,
+  "_native": "",
+  "_effectAsset": {
+    "__uuid__": "a7612b54-35e3-4238-a1a9-4a7b54635839"
+  },
+  "_techIdx": 0,
+  "_defines": [
+    {
+      "USE_OUTLINE_PASS": true,
+      "USE_SKINNING": true
+    },
+    {
+      "USE_BASE_COLOR_MAP": true,
+      "BASE_COLOR_MAP_AS_SHADE_MAP_1": true,
+      "BASE_COLOR_MAP_AS_SHADE_MAP_2": true,
+      "USE_SKINNING": true
+    }
+  ],
+  "_states": [
+    {
+      "blendState": {
+        "targets": [
+          {}
+        ]
+      },
+      "depthStencilState": {},
+      "rasterizerState": {}
+    },
+    {
+      "blendState": {
+        "targets": [
+          {}
+        ]
+      },
+      "depthStencilState": {},
+      "rasterizerState": {}
+    }
+  ],
+  "_props": [
+    {
+      "outlineParams": {
+        "__type__": "cc.Vec4",
+        "x": 3,
+        "y": 0,
+        "z": 0,
+        "w": 0
+      },
+      "lineWidth": 3,
+      "depthBias": 0
+    },
+    {
+      "shadeParams": {
+        "__type__": "cc.Vec4",
+        "x": 0.8,
+        "y": 0.03,
+        "z": 0.5,
+        "w": 0.03
+      },
+      "baseStep": 0.8,
+      "baseFeather": 0.03,
+      "shadeStep": 0.5,
+      "shadeFeather": 0.03,
+      "mainTexture": {
+        "__uuid__": "8de4f8c2-ef4f-452c-8b31-ac4f1db77b81@c2639"
+      }
+    }
+  ]
+}

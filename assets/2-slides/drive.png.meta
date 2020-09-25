@@ -1,0 +1,40 @@
+{
+  "ver": "1.0.18",
+  "importer": "image",
+  "imported": true,
+  "uuid": "3b6d28de-c807-4d27-91ac-462dca1dc501",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "ver": "1.0.19",
+      "importer": "texture",
+      "name": "texture",
+      "id": "6c48a",
+      "displayName": "drive",
+      "uuid": "3b6d28de-c807-4d27-91ac-462dca1dc501@6c48a",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "3b6d28de-c807-4d27-91ac-462dca1dc501"
+      }
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "redirect": "3b6d28de-c807-4d27-91ac-462dca1dc501@6c48a"
+  }
+}

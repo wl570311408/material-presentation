@@ -1,0 +1,94 @@
+2020-09-25 10:41:18-log: [Package] builder@1.0.0 enable
+2020-09-25 10:41:19-log: [Package] android@1.0.0 enable
+2020-09-25 10:41:19-log: [Package] baidu-mini-game@1.0.0 enable
+2020-09-25 10:41:18-log: [Package] lightmap@1.0.0 enable
+2020-09-25 10:41:19-log: [Package] huawei-mini-game@1.0.0 enable
+2020-09-25 10:41:19-log: [Package] ios@1.0.0 enable
+2020-09-25 10:41:19-log: [Package] mac@1.0.0 enable
+2020-09-25 10:41:19-log: [Package] native@1.0.0 enable
+2020-09-25 10:41:19-log: [Package] oppo-mini-game@1.0.0 enable
+2020-09-25 10:41:19-log: [Package] vivo-mini-game@1.0.0 enable
+2020-09-25 10:41:19-log: [Package] web-desktop@1.0.0 enable
+2020-09-25 10:41:19-log: [Package] alipay-mini-game@1.0.0 enable
+2020-09-25 10:41:19-log: [Package] wechatgame@1.0.0 enable
+2020-09-25 10:41:19-log: [Package] windows@1.0.0 enable
+2020-09-25 10:41:19-log: [Package] xiaomi-quick-game@1.0.0 enable
+2020-09-25 10:41:19-log: [Package] cocos-play@1.0.0 enable
+2020-09-25 10:41:19-log: [Package] web-mobile@1.0.0 enable
+2020-09-25 10:41:19-log: [Package] bytedance-mini-game@1.0.0 enable
+2020-09-25 10:41:16-log: [Package] ui-kit@1.0.0 enable
+2020-09-25 10:41:16-log: [Package] preferences@1.0.0 enable
+2020-09-25 10:41:18-log: [Package] engine@1.0.0 enable
+2020-09-25 10:41:18-log: [Package] console@1.0.0 enable
+2020-09-25 10:41:18-log: [Package] scene@1.0.0 enable
+2020-09-25 10:41:18-log: [Package] packager@1.0.0 enable
+2020-09-25 10:41:18-log: [Package] about@1.0.0 enable
+2020-09-25 10:41:18-log: [Package] project-setting@1.0.0 enable
+2020-09-25 10:41:18-log: [Package] server@1.0.0 enable
+2020-09-25 10:41:18-log: [Package] utils@1.0.0 enable
+2020-09-25 10:41:18-log: [Package] profile@1.0.0 enable
+2020-09-25 10:41:18-log: [Package] assets@1.0.0 enable
+2020-09-25 10:41:18-log: [Package] inspector@1.0.0 enable
+2020-09-25 10:41:18-log: [Package] hierarchy@1.0.0 enable
+2020-09-25 10:41:18-log: [Package] preview@1.0.0 enable
+2020-09-25 10:41:18-log: [Package] animator@1.0.0 enable
+2020-09-25 10:41:18-warn: Port 7456 is occupied
+2020-09-25 10:41:18-log: [Package] builder@1.0.0 enable
+2020-09-25 10:41:18-log: [Package] lightmap@1.0.0 enable
+2020-09-25 10:41:19-log: [Package] alipay-mini-game@1.0.0 enable
+2020-09-25 10:41:19-log: [Package] android@1.0.0 enable
+2020-09-25 10:41:19-log: [Package] baidu-mini-game@1.0.0 enable
+2020-09-25 10:41:19-log: [Package] bytedance-mini-game@1.0.0 enable
+2020-09-25 10:41:19-log: [Package] cocos-play@1.0.0 enable
+2020-09-25 10:41:19-log: [Package] huawei-mini-game@1.0.0 enable
+2020-09-25 10:41:19-log: [Package] ios@1.0.0 enable
+2020-09-25 10:41:19-log: [Package] mac@1.0.0 enable
+2020-09-25 10:41:19-log: [Package] native@1.0.0 enable
+2020-09-25 10:41:19-log: [Package] oppo-mini-game@1.0.0 enable
+2020-09-25 10:41:19-log: [Package] vivo-mini-game@1.0.0 enable
+2020-09-25 10:41:19-log: [Package] web-desktop@1.0.0 enable
+2020-09-25 10:41:19-log: [Package] web-mobile@1.0.0 enable
+2020-09-25 10:41:19-log: [Package] wechatgame@1.0.0 enable
+2020-09-25 10:41:19-log: [Package] windows@1.0.0 enable
+2020-09-25 10:41:19-log: [Package] xiaomi-quick-game@1.0.0 enable
+2020-09-25 10:41:16-log: [Package] ipc@1.0.0 enable
+2020-09-25 10:41:16-log: [Package] tester@1.0.0 enable
+2020-09-25 10:41:18-log: [Package] asset-db@1.0.0 enable
+2020-09-25 10:41:31-warn: [Asset DB] Browserslist: caniuse-lite is outdated. Please run the following command: `npx browserslist --update-db`
+2020-09-25 10:41:32-error: [Asset DB] Failed to load image file:///Users/wuliang/Documents/GitHub/material-presentation/assets/1-helmet/Default_metalRoughness.jpg: Error: ENOENT: no such file or directory, open '/Users/wuliang/Documents/GitHub/material-presentation/assets/1-helmet/Default_metalRoughness.jpg' {asset(339e5be0-71d2-45f9-9c2d-77516fe64d44@e6ff4)}
+2020-09-25 10:41:32-error: [Asset DB] Failed to load image file:///Users/wuliang/Documents/GitHub/material-presentation/assets/1-helmet/Default_AO.jpg: Error: ENOENT: no such file or directory, open '/Users/wuliang/Documents/GitHub/material-presentation/assets/1-helmet/Default_AO.jpg' {asset(339e5be0-71d2-45f9-9c2d-77516fe64d44@fb88e)}
+2020-09-25 10:41:34-warn: [Asset DB] Morph data of the mesh is empty. {asset(8de4f8c2-ef4f-452c-8b31-ac4f1db77b81)}
+2020-09-25 10:41:34-warn: [Asset DB] Morph data of the mesh is empty. {asset(8de4f8c2-ef4f-452c-8b31-ac4f1db77b81)}
+2020-09-25 10:41:34-warn: [Asset DB] Morph data of the mesh is empty. {asset(8de4f8c2-ef4f-452c-8b31-ac4f1db77b81)}
+2020-09-25 10:41:34-warn: [Asset DB] Morph data of the mesh is empty. {asset(8de4f8c2-ef4f-452c-8b31-ac4f1db77b81)}
+2020-09-25 10:41:34-warn: [Asset DB] Morph data of the mesh is empty. {asset(8de4f8c2-ef4f-452c-8b31-ac4f1db77b81)}
+2020-09-25 10:41:34-warn: [Asset DB] Morph data of the mesh is empty. {asset(8de4f8c2-ef4f-452c-8b31-ac4f1db77b81)}
+2020-09-25 10:41:34-warn: [Asset DB] Morph data of the mesh is empty. {asset(8de4f8c2-ef4f-452c-8b31-ac4f1db77b81)}
+2020-09-25 10:41:34-warn: [Asset DB] Morph data of the mesh is empty. {asset(8de4f8c2-ef4f-452c-8b31-ac4f1db77b81)}
+2020-09-25 10:41:34-warn: [Asset DB] Morph data of the mesh is empty. {asset(8de4f8c2-ef4f-452c-8b31-ac4f1db77b81)}
+2020-09-25 10:41:34-warn: [Asset DB] Morph data of the mesh is empty. {asset(8de4f8c2-ef4f-452c-8b31-ac4f1db77b81)}
+2020-09-25 10:41:34-warn: [Asset DB] The uuid is already pointing to another resource.
+[
+  "/Users/wuliang/Documents/GitHub/material-presentation/assets/3-miku/materials/スカート腕ヘドフォン1.mtl",
+  "/Users/wuliang/Documents/GitHub/material-presentation/assets/3-miku/materials/スカート腕ヘドフォン1.mtl"
+]
+The file uuid has been updated: /Users/wuliang/Documents/GitHub/material-presentation/assets/3-miku/materials/スカート腕ヘドフォン1.mtl
+    149ddb76-3225-42f2-9bf9-104501aed42b -> f2eb2683-b795-4cce-8a80-968564b3eab6
+2020-09-25 10:41:34-warn: [Asset DB] The uuid is already pointing to another resource.
+[
+  "/Users/wuliang/Documents/GitHub/material-presentation/assets/3-miku/materials/ブラウス.mtl",
+  "/Users/wuliang/Documents/GitHub/material-presentation/assets/3-miku/materials/ブラウス.mtl"
+]
+The file uuid has been updated: /Users/wuliang/Documents/GitHub/material-presentation/assets/3-miku/materials/ブラウス.mtl
+    db9d03e9-459a-4829-92a6-ebc549321026 -> 0572e73f-48e2-4e4c-919d-029df3cd91b9
+2020-09-25 10:41:34-warn: [Asset DB] The uuid is already pointing to another resource.
+[
+  "/Users/wuliang/Documents/GitHub/material-presentation/assets/3-miku/materials/スカート腕ヘドフォン.mtl",
+  "/Users/wuliang/Documents/GitHub/material-presentation/assets/3-miku/materials/スカート腕ヘドフォン.mtl"
+]
+The file uuid has been updated: /Users/wuliang/Documents/GitHub/material-presentation/assets/3-miku/materials/スカート腕ヘドフォン.mtl
+    cf999de5-434f-4cec-82cb-82c8526e6bdb -> 8d95f1dc-0ca4-441a-9d89-a184e151d3ad
+2020-09-25 10:41:53-error: [Scene] Error: Can not get asset url by uuid "149ddb76-3225-42f2-9bf9-104501aed42b", the asset may be deleted.
+2020-09-25 10:41:53-error: [Scene] Error: Can not get asset url by uuid "db9d03e9-459a-4829-92a6-ebc549321026", the asset may be deleted.
+2020-09-25 10:41:53-error: [Scene] Error: Can not get asset url by uuid "cf999de5-434f-4cec-82cb-82c8526e6bdb", the asset may be deleted.
+2020-09-25 10:42:37-info: asset(/Users/wuliang/Documents/GitHub/material-presentation/assets/3-miku/miku.scene) saved

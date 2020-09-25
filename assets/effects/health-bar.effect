@@ -1,0 +1,72 @@
+// Copyright (c) 2017-2018 Xiamen Yaji Software Co., Ltd.
+CCEffect %{
+  techniques:
+  - passes:
+    - vert: bar-vs:vert
+      frag: bar-fs:frag
+      depthStencilState:
+        depthTest: true
+        depthWrite: false
+      blendState:
+        targets:
+        - blend: true
+          blendSrc: src_alpha
+          blendDst: one_minus_src_alpha
+          blendDstAlpha: one_minus_src_alpha
+      properties:
+        color: { value: [1, 0, 0, 1], editor: { type: color } }
+        tex: {}
+        health: { value: [10, 1, 1, 0.8] } # xyz: scale, w: health
+}%
+
+CCProgram shared-ubos %{
+  uniform Constant {
+    vec4 color;
+    vec4 health;
+  };
+}%
+
+CCProgram bar-vs %{
+  precision mediump float;
+  #include <cc-global>
+  #include <cc-local-batch>
+  #include <input>
+  #include <shared-ubos>
+
+  in vec2 a_texCoord;
+  out vec2 uv0;
+
+  vec4 vert () {
+    vec4 position;
+    CCVertInput(position);
+
+    mat4 matWorld;
+    CCGetWorldMatrix(matWorld);
+
+    uv0 = a_texCoord;
+
+    vec4 pos = cc_matView[3] + cc_matView * vec4(matWorld[3].xyz, 0) + vec4(position.xyz * health.xyz, 0);
+    return cc_matProj * pos;
+  }
+}%
+
+CCProgram bar-fs %{
+  precision mediump float;
+  #include <output>
+  #include <shared-ubos>
+
+  in vec2 uv0;
+  uniform sampler2D tex;
+
+  vec4 frag () {
+    vec4 c;
+    if (uv0.x > health.w) {
+      c = color;
+      c.a = 0.3;
+    }
+    else {
+      c = color * texture(tex, uv0);
+    }
+    return CCFragOutput(c);
+  }
+}%

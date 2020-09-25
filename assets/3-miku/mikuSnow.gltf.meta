@@ -1,0 +1,602 @@
+{
+  "ver": "1.3.21",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "8de4f8c2-ef4f-452c-8b31-ac4f1db77b81",
+  "files": [],
+  "subMetas": {
+    "43454": {
+      "ver": "1.0.11",
+      "importer": "gltf-scene",
+      "name": "mikuSnow.prefab",
+      "id": "43454",
+      "displayName": "",
+      "uuid": "8de4f8c2-ef4f-452c-8b31-ac4f1db77b81@43454",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "9e3c9": {
+      "ver": "1.1.0",
+      "importer": "gltf-mesh",
+      "name": "TDA Snow Miku_mesh.mesh",
+      "id": "9e3c9",
+      "displayName": "",
+      "uuid": "8de4f8c2-ef4f-452c-8b31-ac4f1db77b81@9e3c9",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "a5493": {
+      "ver": "1.0.14",
+      "importer": "gltf-animation",
+      "name": "TDA Snow Miku_arm|12-3 remmiku专用_bone.animation",
+      "id": "a5493",
+      "displayName": "",
+      "uuid": "8de4f8c2-ef4f-452c-8b31-ac4f1db77b81@a5493",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 211.5
+        },
+        "events": [],
+        "wrapMode": 2
+      }
+    },
+    "438fe": {
+      "ver": "1.0.1",
+      "importer": "gltf-skeleton",
+      "name": "UnnamedSkeleton.skeleton",
+      "id": "438fe",
+      "displayName": "",
+      "uuid": "8de4f8c2-ef4f-452c-8b31-ac4f1db77b81@438fe",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 193
+      }
+    },
+    "0d32f": {
+      "ver": "1.0.19",
+      "importer": "texture",
+      "name": "肌.texture",
+      "id": "0d32f",
+      "displayName": "",
+      "uuid": "8de4f8c2-ef4f-452c-8b31-ac4f1db77b81@0d32f",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/3-miku/textures/k_Hada.png"
+      }
+    },
+    "d3328": {
+      "ver": "1.0.19",
+      "importer": "texture",
+      "name": "おみあし.texture",
+      "id": "d3328",
+      "displayName": "",
+      "uuid": "8de4f8c2-ef4f-452c-8b31-ac4f1db77b81@d3328",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/3-miku/textures/k_Asi2.png"
+      }
+    },
+    "90ad9": {
+      "ver": "1.0.19",
+      "importer": "texture",
+      "name": "face00.texture",
+      "id": "90ad9",
+      "displayName": "",
+      "uuid": "8de4f8c2-ef4f-452c-8b31-ac4f1db77b81@90ad9",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/3-miku/textures/k_face_MikuAp.png"
+      }
+    },
+    "063a3": {
+      "ver": "1.0.19",
+      "importer": "texture",
+      "name": "face01.texture",
+      "id": "063a3",
+      "displayName": "",
+      "uuid": "8de4f8c2-ef4f-452c-8b31-ac4f1db77b81@063a3",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/3-miku/textures/k_face_MikuAp.png"
+      }
+    },
+    "c51d7": {
+      "ver": "1.0.19",
+      "importer": "texture",
+      "name": "eye_hi.texture",
+      "id": "c51d7",
+      "displayName": "",
+      "uuid": "8de4f8c2-ef4f-452c-8b31-ac4f1db77b81@c51d7",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/3-miku/textures/k_face_MikuAp.png"
+      }
+    },
+    "06043": {
+      "ver": "1.0.19",
+      "importer": "texture",
+      "name": "hair00.texture",
+      "id": "06043",
+      "displayName": "",
+      "uuid": "8de4f8c2-ef4f-452c-8b31-ac4f1db77b81@06043",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/3-miku/textures/h2j.png"
+      }
+    },
+    "5d3d4": {
+      "ver": "1.0.19",
+      "importer": "texture",
+      "name": "hair01.texture",
+      "id": "5d3d4",
+      "displayName": "",
+      "uuid": "8de4f8c2-ef4f-452c-8b31-ac4f1db77b81@5d3d4",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/3-miku/textures/h2j.png"
+      }
+    },
+    "026ca": {
+      "ver": "1.0.19",
+      "importer": "texture",
+      "name": "body02.texture",
+      "id": "026ca",
+      "displayName": "",
+      "uuid": "8de4f8c2-ef4f-452c-8b31-ac4f1db77b81@026ca",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/3-miku/textures/body02_MikuAp.png"
+      }
+    },
+    "d9cd2": {
+      "ver": "1.0.19",
+      "importer": "texture",
+      "name": "hairshadow.texture",
+      "id": "d9cd2",
+      "displayName": "",
+      "uuid": "8de4f8c2-ef4f-452c-8b31-ac4f1db77b81@d9cd2",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/3-miku/textures/k_face_MikuAp.png"
+      }
+    },
+    "c2639": {
+      "ver": "1.0.19",
+      "importer": "texture",
+      "name": "lens.texture",
+      "id": "c2639",
+      "displayName": "",
+      "uuid": "8de4f8c2-ef4f-452c-8b31-ac4f1db77b81@c2639",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/3-miku/textures/body02_MikuAp.png"
+      }
+    },
+    "ec2f6": {
+      "ver": "1.0.19",
+      "importer": "texture",
+      "name": "スカート腕ヘドフォン1.texture",
+      "id": "ec2f6",
+      "displayName": "",
+      "uuid": "8de4f8c2-ef4f-452c-8b31-ac4f1db77b81@ec2f6",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/3-miku/textures/k_huku1.png"
+      }
+    },
+    "6ca48": {
+      "ver": "1.0.19",
+      "importer": "texture",
+      "name": "ブラウス.texture",
+      "id": "6ca48",
+      "displayName": "",
+      "uuid": "8de4f8c2-ef4f-452c-8b31-ac4f1db77b81@6ca48",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/3-miku/textures/k_huku2.png"
+      }
+    },
+    "f8ce9": {
+      "ver": "1.0.19",
+      "importer": "texture",
+      "name": "光る1.texture",
+      "id": "f8ce9",
+      "displayName": "",
+      "uuid": "8de4f8c2-ef4f-452c-8b31-ac4f1db77b81@f8ce9",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/3-miku/textures/k_hika.png"
+      }
+    },
+    "f6598": {
+      "ver": "1.0.19",
+      "importer": "texture",
+      "name": "Other.texture",
+      "id": "f6598",
+      "displayName": "",
+      "uuid": "8de4f8c2-ef4f-452c-8b31-ac4f1db77b81@f6598",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/3-miku/textures/k_Hada.png"
+      }
+    },
+    "c84d2": {
+      "ver": "1.0.19",
+      "importer": "texture",
+      "name": "スカート腕ヘドフォン.texture",
+      "id": "c84d2",
+      "displayName": "",
+      "uuid": "8de4f8c2-ef4f-452c-8b31-ac4f1db77b81@c84d2",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/3-miku/textures/k_huku1.png"
+      }
+    },
+    "80da9": {
+      "ver": "1.0.19",
+      "importer": "texture",
+      "name": "光る.texture",
+      "id": "80da9",
+      "displayName": "",
+      "uuid": "8de4f8c2-ef4f-452c-8b31-ac4f1db77b81@80da9",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/3-miku/textures/k_hika.png"
+      }
+    }
+  },
+  "userData": {
+    "normals": 2,
+    "tangents": 2,
+    "dumpMaterials": true,
+    "animationImportSettings": [
+      {
+        "name": "TDA Snow Miku_arm|12-3 remmiku专用_bone",
+        "duration": 211.5,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "TDA Snow Miku_arm|12-3 remmiku专用_bone",
+            "from": 0,
+            "to": 211.5,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "8de4f8c2-ef4f-452c-8b31-ac4f1db77b81@43454",
+    "assetFinder": {
+      "meshes": [
+        "8de4f8c2-ef4f-452c-8b31-ac4f1db77b81@9e3c9"
+      ],
+      "skeletons": [
+        "8de4f8c2-ef4f-452c-8b31-ac4f1db77b81@438fe"
+      ],
+      "textures": [
+        "8de4f8c2-ef4f-452c-8b31-ac4f1db77b81@0d32f",
+        "8de4f8c2-ef4f-452c-8b31-ac4f1db77b81@d3328",
+        "8de4f8c2-ef4f-452c-8b31-ac4f1db77b81@90ad9",
+        "8de4f8c2-ef4f-452c-8b31-ac4f1db77b81@063a3",
+        "8de4f8c2-ef4f-452c-8b31-ac4f1db77b81@c51d7",
+        "8de4f8c2-ef4f-452c-8b31-ac4f1db77b81@06043",
+        "8de4f8c2-ef4f-452c-8b31-ac4f1db77b81@5d3d4",
+        "8de4f8c2-ef4f-452c-8b31-ac4f1db77b81@026ca",
+        "8de4f8c2-ef4f-452c-8b31-ac4f1db77b81@d9cd2",
+        "8de4f8c2-ef4f-452c-8b31-ac4f1db77b81@c2639",
+        "8de4f8c2-ef4f-452c-8b31-ac4f1db77b81@ec2f6",
+        "8de4f8c2-ef4f-452c-8b31-ac4f1db77b81@6ca48",
+        "8de4f8c2-ef4f-452c-8b31-ac4f1db77b81@f8ce9",
+        "8de4f8c2-ef4f-452c-8b31-ac4f1db77b81@f6598",
+        "8de4f8c2-ef4f-452c-8b31-ac4f1db77b81@c84d2",
+        "8de4f8c2-ef4f-452c-8b31-ac4f1db77b81@80da9"
+      ],
+      "materials": [
+        "f2797af2-ff43-426e-876b-a3a39ef7bf86",
+        "27d75902-3a9f-4077-9919-388a4b86f506",
+        "93b3a1b3-2480-489a-832e-7e49e25e179e",
+        "d17b747a-97b1-4215-9e23-1935410d2d86",
+        "3f11cea1-be15-4f54-8e49-e596cc08c28a",
+        "c77045bd-8b50-4123-8cad-a044789642ca",
+        "f138d9e7-a2fa-4262-b568-5fa1d385f808",
+        "3589ac26-a079-4cd4-b926-182a62c4fa3f",
+        "2740ad3e-8d03-4199-9d02-70f1d088404e",
+        "1b1b548b-6853-459f-b741-409a15709be9",
+        "f2eb2683-b795-4cce-8a80-968564b3eab6",
+        "0572e73f-48e2-4e4c-919d-029df3cd91b9",
+        "b8f8ae1b-5bde-459c-951f-bcb065a580b2",
+        "f18e4335-95c6-475d-ba8c-eb2eed3db317",
+        "8d95f1dc-0ca4-441a-9d89-a184e151d3ad",
+        "570acd07-f53d-4c66-9c79-c501a07d6819"
+      ],
+      "scenes": [
+        "8de4f8c2-ef4f-452c-8b31-ac4f1db77b81@43454"
+      ]
+    },
+    "materialDumpDir": "db://assets/3-miku/materials",
+    "imageMetas": [
+      {
+        "name": "textures/k_Hada.png",
+        "uri": "db://assets/3-miku/textures/k_Hada.png"
+      },
+      {
+        "name": "textures/k_Asi2.png",
+        "uri": "db://assets/3-miku/textures/k_Asi2.png"
+      },
+      {
+        "name": "textures/k_face_MikuAp.png",
+        "uri": "db://assets/3-miku/textures/k_face_MikuAp.png"
+      },
+      {
+        "name": "textures/k_face_MikuAp.png",
+        "uri": "db://assets/3-miku/textures/k_face_MikuAp.png"
+      },
+      {
+        "name": "textures/k_face_MikuAp.png",
+        "uri": "db://assets/3-miku/textures/k_face_MikuAp.png"
+      },
+      {
+        "name": "textures/h2j.png",
+        "uri": "db://assets/3-miku/textures/h2j.png"
+      },
+      {
+        "name": "textures/h2j.png",
+        "uri": "db://assets/3-miku/textures/h2j.png"
+      },
+      {
+        "name": "textures/body02_MikuAp.png",
+        "uri": "db://assets/3-miku/textures/body02_MikuAp.png"
+      },
+      {
+        "name": "textures/k_face_MikuAp.png",
+        "uri": "db://assets/3-miku/textures/k_face_MikuAp.png"
+      },
+      {
+        "name": "textures/body02_MikuAp.png",
+        "uri": "db://assets/3-miku/textures/body02_MikuAp.png"
+      },
+      {
+        "name": "textures/k_huku1.png",
+        "uri": "db://assets/3-miku/textures/k_huku1.png"
+      },
+      {
+        "name": "textures/k_huku2.png",
+        "uri": "db://assets/3-miku/textures/k_huku2.png"
+      },
+      {
+        "name": "textures/k_hika.png",
+        "uri": "db://assets/3-miku/textures/k_hika.png"
+      },
+      {
+        "name": "textures/k_Hada.png",
+        "uri": "db://assets/3-miku/textures/k_Hada.png"
+      },
+      {
+        "name": "textures/k_huku1.png",
+        "uri": "db://assets/3-miku/textures/k_huku1.png"
+      },
+      {
+        "name": "textures/k_hika.png",
+        "uri": "db://assets/3-miku/textures/k_hika.png"
+      }
+    ]
+  }
+}

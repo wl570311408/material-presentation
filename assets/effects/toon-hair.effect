@@ -1,0 +1,117 @@
+// Copyright (c) 2017-2019 Xiamen Yaji Software Co., Ltd.
+
+CCEffect %{
+  techniques:
+  - passes:
+    - switch: USE_OUTLINE_PASS
+      vert: outline-vs:vert
+      frag: outline-fs:frag
+      rasterizerState:
+        cullMode: front
+      properties:
+        lineWidth:     { value: 10, target: outlineParams.x }
+        depthBias:     { value: 0,  target: outlineParams.y }
+        baseColor:     { editor: { type: color } }
+        baseColorMap:  { value: grey }
+    - vert: general-vs:vert # builtin header
+      frag: toon-fs:frag
+      properties: &props
+        baseColor:      { value: [0.6, 0.6, 0.6, 1.0], editor: { type: color } }
+        shadeColor1:    { value: [0.4, 0.4, 0.4, 1], editor: { type: color } }
+        shadeColor2:    { value: [0.1, 0.1, 0.1, 1], editor: { type: color } }
+        specular:       { value: [1.0, 1.0, 1.0, 0.3], editor: { type: color } }
+        baseStep:       { value: 0.8,   target: shadeParams.x }
+        baseFeather:    { value: 0.001, target: shadeParams.y }
+        shadeStep:      { value: 0.5,   target: shadeParams.z }
+        shadeFeather:   { value: 0.001, target: shadeParams.w }
+        baseColorMap:   { value: white }
+}%
+
+CCProgram toon-fs %{
+  precision highp float;
+  #include <anisotropic-hair>
+  #include <shading-toon>
+  #include <gamma>
+  #include <output-standard>
+
+  in vec3 v_position;
+  in vec2 v_uv;
+  in vec3 v_normal;
+  in vec3 v_tangent;
+  in vec3 v_bitangent;
+
+  uniform sampler2D baseColorMap;
+
+  uniform ToonFrag {
+    vec4 baseColor;
+    vec4 shadeColor1;
+    vec4 shadeColor2;
+    vec4 specular; // xyz: specular color, w: width
+    vec4 shadeParams; // baseStep, baseFeather, shadeStep, shadeFeather
+  };
+
+  void surf (out ToonSurface s) {
+    s.shade2 = shadeColor2.rgb;
+    s.shade1 = shadeColor1.rgb;
+    vec4 baseColor = baseColor;
+    vec4 baseColorMap = texture(baseColorMap, v_uv);
+    baseColorMap.rgb = SRGBToLinear(baseColorMap.rgb);
+    baseColor *= baseColorMap;
+    s.shade1 *= baseColorMap.rgb;
+    s.shade2 *= baseColorMap.rgb;
+    s.baseColor = baseColor;
+    s.normal = normalize(v_normal);
+    s.position = v_position;
+    s.specular = vec4(0); // disable default specular
+    s.baseStep = shadeParams.x;
+    s.baseFeather = shadeParams.y;
+    s.shadeStep = shadeParams.z;
+    s.shadeFeather = shadeParams.w;
+  }
+
+  vec4 frag () {
+    ToonSurface s; surf(s);
+    vec4 color = CCToonShading(s);
+    color.rgb += AnisotropicHairShading(v_position, v_normal, v_bitangent, specular.a) * s.baseStep * specular.rgb;
+    return CCFragOutput(color);
+  }
+}%
+
+CCProgram anisotropic-hair %{
+  #include <cc-global>
+
+  vec3 AnisotropicHairShading (vec3 position, vec3 normal, vec3 bitangent, float width) {
+    vec3 V = normalize(cc_cameraPos.xyz - position);
+    vec3 L = normalize(-cc_mainLitDir.xyz);
+    vec3 H = normalize(V + L);
+    vec3 N = normalize(normal);
+    vec3 T = normalize(bitangent);
+
+    /* Blinn-Phong specular *
+
+    float specularWeight = 1.0 - pow(width, 5.0);
+    float NH = 0.5 * dot(N, H) + 0.5;
+    float specularMask = step(specularWeight, NH);
+
+    /* simple TH approximation *
+
+    float specularWeight = 1.0 - pow(width, 0.5);
+    float TH = 0.5 * dot(normalize(bitangent), H) + 0.5;
+    float specularMask = step(TH, specularWeight);
+
+    /* Anisotropic 'Cone' Specular - Phong *
+
+    float TV = dot(T, V), TR = dot(T, N * 2.0 - L);
+    float mr = exp(-abs(TV - TR) * 3.0);
+    float specularMask = step(1.0 - width, mr);
+
+    /* Anisotropic 'Cone' Specular - Blinn-Phong */
+
+    float mr = exp(-abs(dot(T, H)) * 6.0);
+    float specularMask = step(1.0 - width, mr);
+
+    /* */
+
+    return cc_mainLitColor.rgb * cc_mainLitColor.w * specularMask;
+  }
+}%

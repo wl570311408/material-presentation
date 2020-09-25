@@ -1,0 +1,62 @@
+{
+  "__type__": "cc.Material",
+  "_name": "",
+  "_objFlags": 0,
+  "_native": "",
+  "_effectAsset": {
+    "__uuid__": "bb4f2d70-90d5-44e4-b0ea-aae0febec814"
+  },
+  "_techIdx": 0,
+  "_defines": [
+    {
+      "USE_OUTLINE_PASS": true,
+      "USE_SKINNING": true
+    },
+    {
+      "USE_BASE_COLOR_MAP": true,
+      "BASE_COLOR_MAP_AS_SHADE_MAP_1": true,
+      "BASE_COLOR_MAP_AS_SHADE_MAP_2": true,
+      "USE_HAIR_SPECULAR": true,
+      "USE_SKINNING": true
+    }
+  ],
+  "_states": [
+    {
+      "blendState": {
+        "targets": [
+          {}
+        ]
+      },
+      "depthStencilState": {},
+      "rasterizerState": {}
+    },
+    {
+      "blendState": {
+        "targets": [
+          {}
+        ]
+      },
+      "depthStencilState": {},
+      "rasterizerState": {}
+    }
+  ],
+  "_props": [
+    {
+      "lineWidth": 3
+    },
+    {
+      "specular": {
+        "__type__": "cc.Color",
+        "r": 128,
+        "g": 128,
+        "b": 128,
+        "a": 76
+      },
+      "baseFeather": 0.03,
+      "shadeFeather": 0.03,
+      "baseColorMap": {
+        "__uuid__": "8de4f8c2-ef4f-452c-8b31-ac4f1db77b81@06043"
+      }
+    }
+  ]
+}

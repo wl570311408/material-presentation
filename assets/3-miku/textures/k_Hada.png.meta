@@ -1,0 +1,40 @@
+{
+  "ver": "1.0.18",
+  "importer": "image",
+  "imported": true,
+  "uuid": "d1ee1ff7-f041-4e09-85cd-3f12375bb18c",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "ver": "1.0.19",
+      "importer": "texture",
+      "name": "texture",
+      "id": "6c48a",
+      "displayName": "k_Hada",
+      "uuid": "d1ee1ff7-f041-4e09-85cd-3f12375bb18c@6c48a",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "d1ee1ff7-f041-4e09-85cd-3f12375bb18c"
+      }
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "redirect": "d1ee1ff7-f041-4e09-85cd-3f12375bb18c@6c48a"
+  }
+}

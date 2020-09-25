@@ -1,0 +1,40 @@
+{
+  "ver": "1.0.18",
+  "importer": "image",
+  "imported": true,
+  "uuid": "f9196eff-adce-4015-b7ca-79a311edad8d",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "ver": "1.0.19",
+      "importer": "texture",
+      "name": "texture",
+      "id": "6c48a",
+      "displayName": "k_hika",
+      "uuid": "f9196eff-adce-4015-b7ca-79a311edad8d@6c48a",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "f9196eff-adce-4015-b7ca-79a311edad8d"
+      }
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "redirect": "f9196eff-adce-4015-b7ca-79a311edad8d@6c48a"
+  }
+}
